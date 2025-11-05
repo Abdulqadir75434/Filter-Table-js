@@ -1,9 +1,9 @@
          const data = [
             { name: "Ahmad Ali", email: "ahmad@example.com", department: "IT", city: "Karachi", salary: "50000" },
-            { name: "Fatima Khan", email: "fatima@example.com", department: "HR", city: "Lahore", salary: "45000" },
+            { name: "Zubain Ali", email: "Zubain Ali@example.com", department: "HR", city: "Lahore", salary: "45000" },
             { name: "Ali Hassan", email: "ali@example.com", department: "Sales", city: "Islamabad", salary: "55000" },
             { name: "Aisha Muhammad", email: "aisha@example.com", department: "Marketing", city: "Karachi", salary: "48000" },
-            { name: "Muhammad Hasan", email: "hasan@example.com", department: "IT", city: "Lahore", salary: "52000" },
+            { name: "Arfat", email: "Arfat@example.com", department: "IT", city: "Lahore", salary: "52000" },
             { name: "Zainab Ali", email: "zainab@example.com", department: "HR", city: "Karachi", salary: "46000" },
             { name: "Khalid Ahmad", email: "khalid@example.com", department: "Sales", city: "Lahore", salary: "58000" },
             { name: "Noor Fatima", email: "noor@example.com", department: "Marketing", city: "Islamabad", salary: "50000" }
