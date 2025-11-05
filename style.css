@@ -54,8 +54,8 @@
         }
 
         button {
-            padding: 12px 20px;
-            background: #667eea;
+            padding: 12px ;
+            background: #30665F;
             color: white;
             border: none;
             border-radius: 5px;
@@ -86,12 +86,16 @@
         }
 
         tr{
-            gap: 10px;
+            
         }
 
         td {
             padding: 12px;
             border-bottom: 1px solid #eee;
+        }
+
+        #dataTable{
+           gap: 10px; 
         }
 
         tr:hover {
