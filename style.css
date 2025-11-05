@@ -6,7 +6,7 @@
 
         body {
             font-family: Arial, sans-serif;
-            /* background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); */
+            background-color: #1F2E2C;
             min-height: 100vh;
             padding: 20px;
         }
@@ -16,7 +16,7 @@
             margin: 0 auto;
             background: white;
             border-radius: 10px;
-            padding: 30px;
+            padding: 40px;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
         }
 
@@ -50,11 +50,11 @@
 
         input[type="text"]:focus, select:focus {
             outline: none;
-            border-color: #667eea;
+            border-color: #30665F;
         }
 
         button {
-            padding: 12px ;
+            padding: 15px 25px;
             background: #30665F;
             color: white;
             border: none;
@@ -66,7 +66,7 @@
         }
 
         button:hover {
-            background: #5568d3;
+            background: #142220;
         }
 
         table {
